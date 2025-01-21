@@ -1,6 +1,6 @@
 # Train_Part-Degree
 
-#### > test_degree_train.py เป็นโค็ด train ระดับความเสียหาย
+#### > test_degree_train.py "เป็นโค็ด train ระดับความเสียหาย"
 
 #### > test_part_train.py เป็นโค็ด train ชิ้นส่วนที่เสียหาย
 
