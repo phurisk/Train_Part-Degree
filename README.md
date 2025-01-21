@@ -1,10 +1,10 @@
 # Train_Part-Degree
 
-#### > test_degree_train.py "เป็นโค็ด train ระดับความเสียหาย"
+#### > test_degree_train.py "โค็ด train ระดับความเสียหาย"
 
-#### > test_part_train.py เป็นโค็ด train ชิ้นส่วนที่เสียหาย
+#### > test_part_train.py "โค็ด train ชิ้นส่วนที่เสียหาย"
 
-#### > csvtrain.py โค็ดสร้าง csv 
+#### > csvtrain.py "โค็ดสร้าง csv"
 
 ## Conda ENV install
 
